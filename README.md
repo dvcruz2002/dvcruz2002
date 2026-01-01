@@ -7,7 +7,7 @@
 
 - 👯 Busco colaborar en **Proyectos de automatización DevOps o despliegues en la nube**
 
-- 💬 Preguntame sobre **JAVA, JavaScript PHP, Python, HTMML, CSS, Gulp, Sass, MongoDB, MySQL, PostgreSQL, AWS y soluciones de Storage de alta disponibilidad**
+- 💬 Preguntame sobre **JAVA, JavaScript, PHP, Python, HTMML, CSS, Gulp, Sass, MongoDB, MySQL, PostgreSQL, AWS y soluciones de Storage de alta disponibilidad**
 
 - 📫 correo de contacto **cruzdaniella04@gmail.com**
 
